@@ -1,0 +1,244 @@
+{
+  "personen": [
+    {
+      "name": "Max Mustermann",
+      "adresse": {
+        "strasse": "Musterstr. 1",
+        "stadt": "Musterstadt",
+        "plz": "12345"
+      },
+      "bankdaten": {
+        "iban": "DE89370400440532013000",
+        "bank": "Musterbank"
+      }
+    },
+    {
+      "name": "Erika Musterfrau",
+      "adresse": {
+        "strasse": "Beispielstr. 2",
+        "stadt": "Beispielstadt",
+        "plz": "23456"
+      },
+      "bankdaten": {
+        "iban": "DE12500105170648489890",
+        "bank": "Beispielbank"
+      }
+    },
+    {
+      "name": "John Doe",
+      "adresse": {
+        "strasse": "Mainstr. 3",
+        "stadt": "New York",
+        "plz": "10001"
+      },
+      "bankdaten": {
+        "iban": "US12345678901234567890",
+        "bank": "Global Bank"
+      }
+    },
+    {
+      "name": "Jane Smith",
+      "adresse": {
+        "strasse": "Broadway 4",
+        "stadt": "Los Angeles",
+        "plz": "90001"
+      },
+      "bankdaten": {
+        "iban": "US98765432109876543210",
+        "bank": "West Coast Bank"
+      }
+    },
+    {
+      "name": "Alice Brown",
+      "adresse": {
+        "strasse": "Kingstr. 5",
+        "stadt": "London",
+        "plz": "SW1A 1AA"
+      },
+      "bankdaten": {
+        "iban": "GB12345678901234567890",
+        "bank": "Royal Bank of London"
+      }
+    },
+    {
+      "name": "Bob White",
+      "adresse": {
+        "strasse": "Queenstr. 6",
+        "stadt": "Manchester",
+        "plz": "M1 1AA"
+      },
+      "bankdaten": {
+        "iban": "GB09876543210987654321",
+        "bank": "Northern Bank"
+      }
+    },
+    {
+      "name": "Lena Fischer",
+      "adresse": {
+        "strasse": "Hauptstr. 7",
+        "stadt": "Berlin",
+        "plz": "10115"
+      },
+      "bankdaten": {
+        "iban": "DE98765432109876543210",
+        "bank": "Deutsche Bank"
+      }
+    },
+    {
+      "name": "Karl Schmidt",
+      "adresse": {
+        "strasse": "Neustr. 8",
+        "stadt": "Hamburg",
+        "plz": "20095"
+      },
+      "bankdaten": {
+        "iban": "DE12345678901234567890",
+        "bank": "Commerzbank"
+      }
+    },
+    {
+      "name": "Maria König",
+      "adresse": {
+        "strasse": "Schulstr. 9",
+        "stadt": "München",
+        "plz": "80331"
+      },
+      "bankdaten": {
+        "iban": "DE11223344556677889900",
+        "bank": "UniCredit Bank"
+      }
+    },
+    {
+      "name": "Hanna Schwarz",
+      "adresse": {
+        "strasse": "Gartenstr. 10",
+        "stadt": "Köln",
+        "plz": "50667"
+      },
+      "bankdaten": {
+        "iban": "DE22334455667788990011",
+        "bank": "DZ Bank"
+      }
+    },
+    {
+      "name": "Michael Weber",
+      "adresse": {
+        "strasse": "Bahnhofstr. 11",
+        "stadt": "Frankfurt",
+        "plz": "60311"
+      },
+      "bankdaten": {
+        "iban": "DE33445566778899001122",
+        "bank": "Frankfurter Bank"
+      }
+    },
+    {
+      "name": "Sarah Becker",
+      "adresse": {
+        "strasse": "Friedrichstr. 12",
+        "stadt": "Düsseldorf",
+        "plz": "40210"
+      },
+      "bankdaten": {
+        "iban": "DE44556677889900112233",
+        "bank": "Bayerische Bank"
+      }
+    },
+    {
+      "name": "Paul Müller",
+      "adresse": {
+        "strasse": "Marktpl. 13",
+        "stadt": "Stuttgart",
+        "plz": "70173"
+      },
+      "bankdaten": {
+        "iban": "DE55667788990011223344",
+        "bank": "LBBW"
+      }
+    },
+    {
+      "name": "Laura Hoffmann",
+      "adresse": {
+        "strasse": "Seestr. 14",
+        "stadt": "Berlin",
+        "plz": "14059"
+      },
+      "bankdaten": {
+        "iban": "DE66778899001122334455",
+        "bank": "Berliner Bank"
+      }
+    },
+    {
+      "name": "Stefan Zimmermann",
+      "adresse": {
+        "strasse": "Wilhelmstr. 15",
+        "stadt": "Bremen",
+        "plz": "28195"
+      },
+      "bankdaten": {
+        "iban": "DE77889900112233445566",
+        "bank": "Hannoversche Bank"
+      }
+    },
+    {
+      "name": "Nina Mayer",
+      "adresse": {
+        "strasse": "Goethestr. 16",
+        "stadt": "Leipzig",
+        "plz": "04109"
+      },
+      "bankdaten": {
+        "iban": "DE88990011223344556677",
+        "bank": "Leipziger Bank"
+      }
+    },
+    {
+      "name": "Markus Hoffmann",
+      "adresse": {
+        "strasse": "Heinrichstr. 17",
+        "stadt": "Dresden",
+        "plz": "01067"
+      },
+      "bankdaten": {
+        "iban": "DE99001122334455667788",
+        "bank": "Sächsische Bank"
+      }
+    },
+    {
+      "name": "Sophie Krüger",
+      "adresse": {
+        "strasse": "Bergstr. 18",
+        "stadt": "Nürnberg",
+        "plz": "90402"
+      },
+      "bankdaten": {
+        "iban": "DE10223344556677889999",
+        "bank": "Raiffeisenbank"
+      }
+    },
+    {
+      "name": "Thomas Wagner",
+      "adresse": {
+        "strasse": "Ziegelstr. 19",
+        "stadt": "Bielefeld",
+        "plz": "33602"
+      },
+      "bankdaten": {
+        "iban": "DE11334455667788990000",
+        "bank": "Bielefelder Bank"
+      }
+    },
+    {
+      "name": "Sandra Richter",
+      "adresse": {
+        "strasse": "Lindenstr. 20",
+        "stadt": "Hannover",
+        "plz": "30159"
+      },
+      "bankdaten": {
+        "iban": "DE22445566778899001122",
+        "bank": "Hannover Bank"
+      }
+    }
+  ]
+}
